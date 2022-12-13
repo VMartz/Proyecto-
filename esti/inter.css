@@ -1,0 +1,42 @@
+.body { 
+	font-family: 'Open Sans', sans-serif;
+	background: #8360c3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.btn{
+    color: #ffffff;
+}
+input[type="submit"]{
+    padding: 10px;
+    color: #ffffff;
+    background: #198754;
+    width: 320px;
+    margin: 20px auto;
+    margin-top: 0;
+    border: 0;
+    border-radius: 3px;
+    cursor: pointer;
+}
+header{
+    display: flex;
+    height: 113px;
+    background-color: #198754;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
+h2{
+  text-align: center;
+}
+.btn_a{
+    background-color: #198754;
+    color: #ffffff;
+    
+}
+
+.btn_b{
+    background-color: #198754;
+    color: #ffffff;
+}
